@@ -4,7 +4,8 @@ import { BsSearch } from "react-icons/bs";
 import { BiUser } from "react-icons/bi";
 import { FiHeart } from "react-icons/fi";
 import { HiOutlineShoppingBag } from "react-icons/hi";
-import Authmodal from './AuthModal';
+import Authmodal from './Authmodal';
+
 
 
 const Headermain = () => {
